@@ -73,6 +73,4 @@ pages 536–546, Osaka, Japan, December 11-17 2016.
 
 
 
-Note: You neednot download 20Newsgroup or Reuters-21578 dataset. All datasets are present in their respective directories.
-
-[//]: # (We used SGMl parser for parsing Reuters-21578 dataset from  https://gist.github.com/herrfz/7967781)
+Note: You need not download 20Newsgroup or Reuters-21578 dataset. All datasets are present in their respective directories. (We used SGMl parser for parsing Reuters-21578 dataset from  https://gist.github.com/herrfz/7967781)
