@@ -58,21 +58,21 @@ For theory and explanation of SCDV, please visit https://aclweb.org/anthology/C/
 
 If you use the code, please cite this paper:
 
-Vivek Gupta, Harish Karnick, Ashendra Bansal, Dheeraj Mekala, "Product Classification in E-Commerce using Distributional Semantics
-", in Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers,
+Vivek Gupta, Harish Karnick, Ashendra Bansal, Dheeraj Mekala, "Product Classification in E-Commerce using Distributional Semantics"., in Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers,
 pages 536–546, Osaka, Japan, December 11-17 2016.
 
+```
 @inproceedings{Gupta2016ProductCI,
   title={Product Classification in E-Commerce using Distributional Semantics},
   author={Vivek Gupta and Harish Karnick and Ashendra Bansal and Pradhuman Jhala},
   booktitle={COLING},
   year={2016}
 } 
-
+```
 --------------------------------------------------------------------------------------------------------------------
 
 
 
-    Note: You neednot download 20Newsgroup or Reuters-21578 dataset. All datasets are present in their respective directories.
+Note: You neednot download 20Newsgroup or Reuters-21578 dataset. All datasets are present in their respective directories.
 
 [//]: # (We used SGMl parser for parsing Reuters-21578 dataset from  https://gist.github.com/herrfz/7967781)
