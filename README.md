@@ -3,7 +3,7 @@ This is the implement for a paper accepted by Coling2016.
 
 ## Introduction
   - For text classification and information retrieval tasks, text data has to be represented as a fixed dimension vector. 
-  - We propose simple feature construction technique named **Graded Weighted Bag of Word Vectors (GWBoWV).**
+  - We propose simple feature construction technique named **[Graded Weighted Bag of Word Vectors (GWBoWV)](https://www.aclweb.org/anthology/C16-1052.pdf).**
   - We demonstrate our method through experiments on multi-class classification on 20newsgroup dataset and multi-label text classification on Reuters-21578 dataset. 
 
 ## Testing
@@ -73,4 +73,4 @@ pages 536–546, Osaka, Japan, December 11-17 2016.
 
 
 
-Note: You need not download 20Newsgroup or Reuters-21578 dataset. All datasets are present in their respective directories. (We used SGMl parser for parsing Reuters-21578 dataset from  https://gist.github.com/herrfz/7967781)
+Note: You need not download 20Newsgroup or Reuters-21578 dataset. All datasets are present in their respective directories. We used SGMl parser for parsing Reuters-21578 dataset from (https://gist.github.com/herrfz/7967781)
